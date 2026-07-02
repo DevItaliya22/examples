@@ -46,3 +46,6 @@ report.html
 /with-webgpu/android
 
 /with-skia/public/canvaskit.wasm
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
